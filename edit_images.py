@@ -65,8 +65,6 @@ def edit_mulitple_images(source_dir_path, destination_dir_path):
 
 
 
-
-
 source_dir_path = r'C:\Users\CHETAN BHOGADE\Desktop\IOT\Chetan\PythonScript\Images'
 destination_dir_path = r'C:\Users\CHETAN BHOGADE\Desktop\IOT\Chetan\PythonScript\outputs'
 
@@ -75,8 +73,3 @@ destination_dir_path = r'C:\Users\CHETAN BHOGADE\Desktop\IOT\Chetan\PythonScript
 if __name__ == "__main__":
     edit_mulitple_images(source_dir_path, destination_dir_path)
 
-
-
-# website names : 
-# 1) unsplash.com/
-# 2) www.pexels.com/
