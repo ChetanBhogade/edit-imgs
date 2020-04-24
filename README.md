@@ -10,3 +10,11 @@ Tasks Perform over images: -
 4) Calculating the fix position of the watermark
 5) Adding watermark to the images
 
+--------------------------
+Task Perform in tkinter app
+1) Creating Tkinter frame 
+2) Adding labels and input box
+3) Creating Browse button
+4) Converting the image imto Black and White image
+5) Providing proper position to all the elements
+
